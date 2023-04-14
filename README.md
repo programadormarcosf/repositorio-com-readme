@@ -1,6 +1,6 @@
 # PROJETO COM README
-[Teste de projeto com um arquivo readme✌
-<img src="./animação.gif" alt="gif sobre uma tela tal">](https://www.google.com/)
+Teste de projeto com um arquivo readme✌
+<img src="./animação.gif" alt="gif sobre uma tela tal">(https://www.google.com/)
 
 ## Tecnologias utilizadas
 - html
